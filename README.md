@@ -44,6 +44,12 @@ I have worked across different stages of the software development lifecycle and 
 - Microsoft Edge
 - Microsoft Office
 
+## Project Under Test
+
+Application: OrangeHRM Demo  
+Scope: Authentication, session handling, and basic UI validation  
+Testing Type: Manual functional testing  
+
 ## Repository Structure
 
 /About  
